@@ -110,6 +110,10 @@ nav ul li a:hover {
     font-size: 1.2rem;
 }
 
+.product-card p {
+    margin-bottom: 20px;
+}
+
 .buy-btn {
     background-color: #282c34;
     color: white;
