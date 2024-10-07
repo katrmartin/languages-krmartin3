@@ -1,0 +1,10 @@
+Chat about functional programming style:  
+
+https://chatgpt.com/share/66fe0a59-5c08-800c-8643-c5e33f2c7c22 
+
+
+Chat about modifying hello-world-scala: 
+
+https://chatgpt.com/share/67034fc3-40ec-800c-a2af-97c197e58210 
+
+ 
