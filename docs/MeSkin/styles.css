@@ -113,7 +113,7 @@ nav ul li a:hover {
 .buy-btn {
     background-color: #282c34;
     color: white;
-    padding: 0.5rem 1rem;
+    padding: 1rem 1rem;
     border: none;
     text-decoration: none;
     transition: background 0.3s;
